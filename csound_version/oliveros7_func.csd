@@ -1,5 +1,5 @@
 ;--------------------------------------
-; I of IV by Pauline Oliveros - 1996
+; I of IV by Pauline Oliveros - 1966
 ; written by Parham Izadyar   - 2025 
 ; (Csound 7-alpha - CsoundQt 7-alpha)
 ; Under the guidance of Joachim Heintz
@@ -328,6 +328,8 @@ i "tapeMachine" 1 99999
 
 
 
+
+
 <bsbPanel>
  <label>Widgets</label>
  <objectName/>
@@ -342,7 +344,7 @@ i "tapeMachine" 1 99999
   <g>199</g>
   <b>185</b>
  </bgcolor>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>65</x>
   <y>15</y>
@@ -373,7 +375,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>165</x>
   <y>25</y>
@@ -404,7 +406,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>370</x>
   <y>65</y>
@@ -435,7 +437,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>dconoff</objectName>
   <x>390</x>
   <y>110</y>
@@ -457,7 +459,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>12</fontsize>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>370</x>
   <y>195</y>
@@ -488,7 +490,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>tamp1</objectName>
   <x>410</x>
   <y>260</y>
@@ -507,7 +509,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>tamp2</objectName>
   <x>480</x>
   <y>260</y>
@@ -526,7 +528,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>tamp3</objectName>
   <x>525</x>
   <y>260</y>
@@ -545,7 +547,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>tamp4</objectName>
   <x>600</x>
   <y>260</y>
@@ -564,7 +566,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>tamp5</objectName>
   <x>645</x>
   <y>260</y>
@@ -583,7 +585,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>sigclear</objectName>
   <x>515</x>
   <y>210</y>
@@ -605,7 +607,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>12</fontsize>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>385</x>
   <y>395</y>
@@ -636,7 +638,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>470</x>
   <y>395</y>
@@ -668,7 +670,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>590</x>
   <y>395</y>
@@ -700,7 +702,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>375</x>
   <y>215</y>
@@ -731,7 +733,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>45</x>
   <y>65</y>
@@ -762,7 +764,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>osc1</objectName>
   <x>55</x>
   <y>230</y>
@@ -784,7 +786,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>12</fontsize>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>frq1</objectName>
   <x>105</x>
   <y>230</y>
@@ -815,7 +817,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>osc2</objectName>
   <x>55</x>
   <y>265</y>
@@ -837,7 +839,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>12</fontsize>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>frq2</objectName>
   <x>105</x>
   <y>265</y>
@@ -868,7 +870,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>osc3</objectName>
   <x>55</x>
   <y>300</y>
@@ -890,7 +892,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>12</fontsize>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>frq3</objectName>
   <x>105</x>
   <y>300</y>
@@ -921,7 +923,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>osc4</objectName>
   <x>55</x>
   <y>335</y>
@@ -943,7 +945,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>12</fontsize>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>frq4</objectName>
   <x>105</x>
   <y>335</y>
@@ -974,7 +976,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>osc5</objectName>
   <x>55</x>
   <y>370</y>
@@ -996,7 +998,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>12</fontsize>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>frq5</objectName>
   <x>105</x>
   <y>370</y>
@@ -1027,7 +1029,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>osc6</objectName>
   <x>55</x>
   <y>405</y>
@@ -1049,7 +1051,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>12</fontsize>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>frq6</objectName>
   <x>105</x>
   <y>405</y>
@@ -1080,7 +1082,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>osc7</objectName>
   <x>55</x>
   <y>440</y>
@@ -1102,7 +1104,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>12</fontsize>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>frq7</objectName>
   <x>105</x>
   <y>440</y>
@@ -1133,7 +1135,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>osc8</objectName>
   <x>55</x>
   <y>475</y>
@@ -1155,7 +1157,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>12</fontsize>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>frq8</objectName>
   <x>105</x>
   <y>475</y>
@@ -1186,7 +1188,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>osc9</objectName>
   <x>55</x>
   <y>510</y>
@@ -1208,7 +1210,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>12</fontsize>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>frq9</objectName>
   <x>105</x>
   <y>510</y>
@@ -1239,7 +1241,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>osc10</objectName>
   <x>55</x>
   <y>545</y>
@@ -1261,7 +1263,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>10</fontsize>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>frq10</objectName>
   <x>105</x>
   <y>545</y>
@@ -1292,7 +1294,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>osc11</objectName>
   <x>55</x>
   <y>580</y>
@@ -1314,7 +1316,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>10</fontsize>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>frq11</objectName>
   <x>105</x>
   <y>580</y>
@@ -1345,7 +1347,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>200</x>
   <y>230</y>
@@ -1376,7 +1378,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>200</x>
   <y>265</y>
@@ -1407,7 +1409,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>200</x>
   <y>300</y>
@@ -1438,7 +1440,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>200</x>
   <y>335</y>
@@ -1469,7 +1471,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>200</x>
   <y>370</y>
@@ -1500,7 +1502,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>200</x>
   <y>405</y>
@@ -1531,7 +1533,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>200</x>
   <y>440</y>
@@ -1562,7 +1564,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>200</x>
   <y>475</y>
@@ -1593,7 +1595,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>200</x>
   <y>510</y>
@@ -1624,7 +1626,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>200</x>
   <y>545</y>
@@ -1655,7 +1657,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>200</x>
   <y>580</y>
@@ -1686,7 +1688,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>gendata</objectName>
   <x>55</x>
   <y>135</y>
@@ -1708,7 +1710,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>10</fontsize>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>amp1</objectName>
   <x>235</x>
   <y>230</y>
@@ -1739,7 +1741,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>295</x>
   <y>230</y>
@@ -1770,7 +1772,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>amp2</objectName>
   <x>235</x>
   <y>265</y>
@@ -1801,7 +1803,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>295</x>
   <y>265</y>
@@ -1832,7 +1834,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>amp3</objectName>
   <x>235</x>
   <y>300</y>
@@ -1863,7 +1865,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>295</x>
   <y>300</y>
@@ -1894,7 +1896,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>amp4</objectName>
   <x>235</x>
   <y>335</y>
@@ -1925,7 +1927,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>295</x>
   <y>335</y>
@@ -1956,7 +1958,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>amp5</objectName>
   <x>235</x>
   <y>370</y>
@@ -1987,7 +1989,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>295</x>
   <y>370</y>
@@ -2018,7 +2020,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>amp6</objectName>
   <x>235</x>
   <y>405</y>
@@ -2049,7 +2051,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>295</x>
   <y>405</y>
@@ -2080,7 +2082,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>amp7</objectName>
   <x>235</x>
   <y>440</y>
@@ -2111,7 +2113,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>295</x>
   <y>440</y>
@@ -2142,7 +2144,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>amp8</objectName>
   <x>235</x>
   <y>475</y>
@@ -2173,7 +2175,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>295</x>
   <y>475</y>
@@ -2204,7 +2206,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>amp9</objectName>
   <x>235</x>
   <y>510</y>
@@ -2235,7 +2237,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>295</x>
   <y>510</y>
@@ -2266,7 +2268,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>amp10</objectName>
   <x>235</x>
   <y>545</y>
@@ -2297,7 +2299,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>295</x>
   <y>545</y>
@@ -2328,7 +2330,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>amp11</objectName>
   <x>235</x>
   <y>580</y>
@@ -2359,7 +2361,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>295</x>
   <y>580</y>
@@ -2390,7 +2392,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>370</x>
   <y>470</y>
@@ -2421,7 +2423,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBScope" version="2">
+ <bsbObject version="2" type="BSBScope">
   <objectName/>
   <x>680</x>
   <y>495</y>
@@ -2441,7 +2443,7 @@ i "tapeMachine" 1 99999
   <mode>0.00000000</mode>
   <triggermode>NoTrigger</triggermode>
  </bsbObject>
- <bsbObject type="BSBController" version="2">
+ <bsbObject version="2" type="BSBController">
   <objectName>meter1</objectName>
   <x>925</x>
   <y>490</y>
@@ -2478,7 +2480,7 @@ i "tapeMachine" 1 99999
   </bgcolor>
   <bgcolormode>true</bgcolormode>
  </bsbObject>
- <bsbObject type="BSBController" version="2">
+ <bsbObject version="2" type="BSBController">
   <objectName>meter2</objectName>
   <x>960</x>
   <y>490</y>
@@ -2515,7 +2517,7 @@ i "tapeMachine" 1 99999
   </bgcolor>
   <bgcolormode>true</bgcolormode>
  </bsbObject>
- <bsbObject type="BSBController" version="2">
+ <bsbObject version="2" type="BSBController">
   <objectName>meter3</objectName>
   <x>995</x>
   <y>490</y>
@@ -2552,7 +2554,7 @@ i "tapeMachine" 1 99999
   </bgcolor>
   <bgcolormode>true</bgcolormode>
  </bsbObject>
- <bsbObject type="BSBController" version="2">
+ <bsbObject version="2" type="BSBController">
   <objectName>meter4</objectName>
   <x>1030</x>
   <y>490</y>
@@ -2589,7 +2591,7 @@ i "tapeMachine" 1 99999
   </bgcolor>
   <bgcolormode>true</bgcolormode>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>outamp1</objectName>
   <x>485</x>
   <y>485</y>
@@ -2608,7 +2610,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>outamp2</objectName>
   <x>515</x>
   <y>485</y>
@@ -2627,7 +2629,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>outamp3</objectName>
   <x>545</x>
   <y>485</y>
@@ -2646,7 +2648,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>outamp4</objectName>
   <x>575</x>
   <y>485</y>
@@ -2665,7 +2667,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>375</x>
   <y>475</y>
@@ -2696,7 +2698,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>_Play</objectName>
   <x>925</x>
   <y>25</y>
@@ -2718,7 +2720,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>15</fontsize>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>380</x>
   <y>75</y>
@@ -2749,7 +2751,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>430</x>
   <y>80</y>
@@ -2780,7 +2782,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBDropdown" version="2">
+ <bsbObject version="2" type="BSBDropdown">
   <objectName>chnmod</objectName>
   <x>375</x>
   <y>585</y>
@@ -2811,7 +2813,7 @@ i "tapeMachine" 1 99999
   <selectedIndex>1</selectedIndex>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBHSlider" version="2">
+ <bsbObject version="2" type="BSBHSlider">
   <objectName>lfo</objectName>
   <x>595</x>
   <y>110</y>
@@ -2830,7 +2832,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>showlfo</objectName>
   <x>675</x>
   <y>80</y>
@@ -2861,7 +2863,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>735</x>
   <y>85</y>
@@ -2892,7 +2894,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>rpulse</objectName>
   <x>890</x>
   <y>260</y>
@@ -2914,7 +2916,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>12</fontsize>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>273</x>
   <y>119</y>
@@ -2945,7 +2947,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>53</x>
   <y>102</y>
@@ -2976,7 +2978,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBDisplay" version="2">
+ <bsbObject version="2" type="BSBDisplay">
   <objectName>showgliss</objectName>
   <x>275</x>
   <y>147</y>
@@ -3007,7 +3009,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>1</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>51</x>
   <y>73</y>
@@ -3038,7 +3040,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>820</x>
   <y>625</y>
@@ -3069,7 +3071,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBButton" version="2">
+ <bsbObject version="2" type="BSBButton">
   <objectName>rnoise</objectName>
   <x>890</x>
   <y>295</y>
@@ -3091,7 +3093,7 @@ i "tapeMachine" 1 99999
   <latched>false</latched>
   <fontsize>12</fontsize>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>tmix</objectName>
   <x>1030</x>
   <y>260</y>
@@ -3110,7 +3112,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>1015</x>
   <y>395</y>
@@ -3141,7 +3143,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>rtime</objectName>
   <x>755</x>
   <y>260</y>
@@ -3160,7 +3162,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>rdiff</objectName>
   <x>800</x>
   <y>260</y>
@@ -3179,7 +3181,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>750</x>
   <y>395</y>
@@ -3210,7 +3212,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>rmix</objectName>
   <x>845</x>
   <y>260</y>
@@ -3229,7 +3231,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>765</x>
   <y>225</y>
@@ -3260,7 +3262,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBDropdown" version="2">
+ <bsbObject version="2" type="BSBDropdown">
   <objectName>lcsr</objectName>
   <x>1010</x>
   <y>92</y>
@@ -3296,7 +3298,7 @@ i "tapeMachine" 1 99999
   <selectedIndex>3</selectedIndex>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>796</x>
   <y>80</y>
@@ -3327,7 +3329,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>480</x>
   <y>595</y>
@@ -3358,7 +3360,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBVSlider" version="2">
+ <bsbObject version="2" type="BSBVSlider">
   <objectName>outamp5</objectName>
   <x>615</x>
   <y>485</y>
@@ -3377,7 +3379,7 @@ i "tapeMachine" 1 99999
   <resolution>-1.00000000</resolution>
   <randomizable group="0">false</randomizable>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>55</x>
   <y>190</y>
@@ -3408,7 +3410,7 @@ i "tapeMachine" 1 99999
   <borderradius>1</borderradius>
   <borderwidth>0</borderwidth>
  </bsbObject>
- <bsbObject type="BSBLabel" version="2">
+ <bsbObject version="2" type="BSBLabel">
   <objectName/>
   <x>168</x>
   <y>73</y>
